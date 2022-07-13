@@ -1,0 +1,28 @@
+:root {
+  background-color: rgb(17, 17, 32);
+  background-image: radial-gradient(circle closest-side , red 0%, rgb(10, 10, 174) 20%, rgb(159, 89, 210) 100%);
+  height: 650px;
+  /* backdrop-filter: brightness(90%); */
+  /* backdrop-filter: hue-rotate(120deg); */
+  /* backdrop-filter: invert(20%); */
+  margin: 0;
+}
+
+body {
+  position:absolute;
+  left:25%;
+  right: 25%;
+  margin-top: 50px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

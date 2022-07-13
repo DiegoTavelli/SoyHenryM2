@@ -1,0 +1,37 @@
+
+
+.cnt {
+    padding-top: 10px;
+}
+.form-container {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form-container button {
+    margin-left: 20px;
+}
+.label {
+    padding-right: 10px;
+}
+
+.favButton {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: grey;
+       
+} 
+.favButton:hover {
+    background-color: aquamarine;
+}
+
+.movieTitle p {
+    text-decoration:none;
+    color: rgb(20, 74, 220);
+}
+
+.movieTitle:hover {
+    text-shadow: 12px 2px 22px black;
+     
+}

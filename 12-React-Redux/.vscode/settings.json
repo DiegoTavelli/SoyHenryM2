@@ -1,0 +1,11 @@
+{
+  "liveFrame.url": "http://localhost:3000",
+  "liveFrame.title": "Local Development",
+  "liveFrame.pane": "Beside",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 40,
+  "editor.mouseWheelZoom": true,
+  "editor.mouseWheelScrollSensitivity": 1,
+  "workbench.list.mouseWheelScrollSensitivity": 1,
+  "terminal.integrated.mouseWheelScrollSensitivity": 1
+}

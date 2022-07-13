@@ -1,0 +1,27 @@
+.cnt {
+    padding-top: 10px;
+}
+
+.closeButton {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: grey;
+
+
+}
+
+.closeButton:hover {
+    background-color: aquamarine;
+}
+
+.backHomeButton {
+    margin-top: 10px;
+padding: 5px;
+border-width: .1px;
+border-style: dotted ;
+border-radius: 20px;
+}
+
+.backHomeButton:hover {
+    background-color: aquamarine;
+}
